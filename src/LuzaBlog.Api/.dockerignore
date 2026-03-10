@@ -1,0 +1,6 @@
+bin/
+obj/
+out/
+*.db
+*.db-shm
+*.db-wal
