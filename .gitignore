@@ -1,0 +1,14 @@
+*.db
+*.db-shm
+*.db-wal
+**/bin/
+**/obj/
+**/out/
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production
+src/LuzaBlog.Api/appsettings.Production.json
+.vs/
+*.user
+.idea/

@@ -1,0 +1,6 @@
+@LuzaBlog.Api_HostAddress = http://localhost:5084
+
+GET {{LuzaBlog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
